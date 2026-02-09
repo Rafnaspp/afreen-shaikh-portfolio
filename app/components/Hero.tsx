@@ -92,7 +92,7 @@ export default function Hero() {
                     </div>
                     <div className="w-full max-w-xs space-y-4 text-center">
                         <Typewriter
-                            texts={["Hello Afreen Shaikh here", "I'm your personal psychologist"]}
+                            texts={["Hello, Afreen Shaikh here", "I'm your personal psychologist"]}
                             className="text-2xl md:text-4xl font-light tracking-tight min-h-[3rem]"
                             delay={80}
                             pauseDelay={2000}
@@ -158,7 +158,7 @@ export default function Hero() {
                     <div className="space-y-8 text-center lg:text-left">
                         <div className="space-y-4">
                             <Typewriter
-                                texts={["Hello Afreen Shaikh here", "I'm your personal psychologist"]}
+                                texts={["Hello, Afreen Shaikh here", "I'm your personal psychologist"]}
                                 className="text-2xl md:text-3xl lg:text-5xl font-light tracking-tight mb-2 min-h-[4rem] lg:min-h-[6rem]"
                                 style={{ fontFamily: '-apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", system-ui, sans-serif' }}
                                 delay={60}
