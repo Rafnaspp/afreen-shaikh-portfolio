@@ -133,7 +133,7 @@ export default function Hero() {
                                     </svg>
                                 </div>
 
-                                <div className="space-y-2">
+                                {/* <div className="space-y-2">
                                     <div className="flex gap-8 justify-center lg:justify-start">
                                         {[
                                             { name: 'Anxiety', icon: '🤯' },
@@ -149,7 +149,7 @@ export default function Hero() {
                                         ))}
                                     </div>
                                     <h3 className="font-bold text-stone-700 text-center lg:text-left">I help to deal with</h3>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                     </div>
