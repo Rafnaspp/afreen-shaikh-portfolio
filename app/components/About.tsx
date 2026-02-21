@@ -21,7 +21,7 @@ export default function About() {
                                     <span className="w-2 h-2 rounded-full bg-blue-300"></span> Evidence-Based
                                 </div>
                                 <div className="flex items-center gap-3 text-sm text-stone-500 font-medium">
-                                    <span className="w-2 h-2 rounded-full bg-purple-300"></span> LGBTQ+ Affirmative
+                                    <span className="w-2 h-2 rounded-full bg-purple-300"></span> Kids and Adults
                                 </div>
                                 <div className="flex items-center gap-3 text-sm text-stone-500 font-medium">
                                     <span className="w-2 h-2 rounded-full bg-orange-300"></span> Trauma-Informed

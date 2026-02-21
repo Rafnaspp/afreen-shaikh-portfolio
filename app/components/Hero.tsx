@@ -84,10 +84,10 @@ export default function Hero() {
         <section id="home" className="min-h-screen flex items-center bg-[#FFFFFF] pt-24 pb-2 relative overflow-hidden">
             <div className="container mx-auto px-6 lg:px-12">
                 {/* Mobile View */}
-                <div className="lg:hidden flex flex-col items-center justify-center min-h-[85vh] px-4 space-y-6">
+                <div className="lg:hidden flex flex-col items-center justify-center min-h-[80vh] px-4 space-y-6">
                     <div className="relative w-full max-w-xs">
                         <div className="aspect-[4/5] rounded-[2.5rem] overflow-hidden shadow-2xl border-4 border-white relative bg-gradient-to-br from-primary/10 to-accent-peach/30">
-                            <img src="/afreen.png" alt="Afreen Shaikh image" className="w-full h-full object-cover" />
+                            <img src="/afreenwebsite.png" alt="Afreen Shaikh image" className="w-full h-full object-cover" />
                         </div>
                     </div>
                     <div className="w-full max-w-xs space-y-4 text-center">
@@ -118,7 +118,7 @@ export default function Hero() {
                         {/* Main Image */}
                         <div className="relative z-10 w-full max-w-sm">
                             <div className=" rounded-[2.5rem] overflow-hidden shadow-2xl relative bg-gradient-to-br from-primary/10 to-accent-peach/30">
-                                <img src="/afreen.png" alt="Afreen Shaikh" className="w-full h-full object-cover" />
+                                <img src="/afreenwebsite.png" alt="Afreen Shaikh" className="w-full h-full object-cover" />
                             </div>
                         </div>
 
